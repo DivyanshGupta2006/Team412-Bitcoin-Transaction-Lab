@@ -1,0 +1,12 @@
+# IDE and python specific
+.idea/
+.venv/
+__pycache__/
+
+# Bitcoin specific
+.bitcoin/
+regtest/
+wallets/
+blocks/
+chainstate/
+debug.log
