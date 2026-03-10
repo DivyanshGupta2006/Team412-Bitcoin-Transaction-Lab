@@ -50,7 +50,8 @@ All experiments are performed using **Bitcoin Regtest mode**.
 - `bitcoin.conf` →File is the primary configuration bridge between the Bitcoin Core daemon (bitcoind) and the Python automation scripts
 - `part1_legacy.py` → Implementation of Legacy **P2PKH** transaction workflow  
 - `part2_segwit.py` → Implementation of **P2SH-P2WPKH SegWit** transaction workflow  
-- `requirements.txt` → Python dependencies required to run the scripts  
+- `requirements.txt` → Python dependencies required to run the scripts
+- `Team_4121_ReportFinal.Pdf` → Final Report containing snapshots of output
 
 ---
 
